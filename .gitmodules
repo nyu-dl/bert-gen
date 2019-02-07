@@ -1,0 +1,3 @@
+[submodule "pytorch-openai-transformer-lm"]
+	path = pytorch-openai-transformer-lm
+	url = https://github.com/huggingface/pytorch-openai-transformer-lm
