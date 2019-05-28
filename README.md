@@ -1,5 +1,7 @@
 # bert-gen
 
+see https://sites.google.com/site/deepernn/home/blog/amistakeinwangchoberthasamouthanditmustspeakbertasamarkovrandomfieldlanguagemodel for the description of a mistake in the paper. BERT seems to be a non-equilibrium language model, not an MRF language model.
+
 see https://arxiv.org/abs/1902.04094 for details.
 
 ```
